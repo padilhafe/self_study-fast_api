@@ -1,2 +1,3 @@
 # Directory ignores
 env/
+__pycache__/
